@@ -1,3 +1,3 @@
 go.parallelized
 ===============
-The slides and the code created from Samuel Portmann.
+The slides and the code are created by Samuel Portmann.
